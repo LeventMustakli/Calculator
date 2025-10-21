@@ -1,7 +1,6 @@
 import tkinter
 from turtle import right 
 
-#game setup
 button_values = [
     ["AC", "+/-", "%",], 
     ["7", "8", "9", "×"], 
@@ -11,4 +10,5 @@ button_values = [
 ]
 
 right_symbols = ["÷", "×", "-", "+", "="]
+
 top_symbols = ["AC", "+/-", "%"]
